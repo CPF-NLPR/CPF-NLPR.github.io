@@ -37,3 +37,4 @@ I am a 4th-year PhD student in the Institute of Automation, Chinese Academy of S
 
 * <strong>Pengfei Cao</strong>, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu. Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism. <i>In Proceedings of EMNLP 2018.</i> [[pdf]](https://aclanthology.org/D18-1017.pdf)
 
+* <strong>Pengfei Cao</strong>, Yubo Chen, Kang Liu, Jun Zhao. Adversarial Training for Relation Classification with Attention based Gate Mechanism. <i>In Proceedings of CCKS 2018.</i> [[pdf]](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_8)
